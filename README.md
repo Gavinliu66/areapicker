@@ -5,6 +5,6 @@
 1. 将area picker group 下的全部文件拖到你的项目下。
 2. 添加QuartzCore.framework
 
-具体看实例
+具体看实例如下
 
 ![snapshot](http://ww4.sinaimg.cn/bmiddle/76770db5gw1dwr6gax695j.jpg)
